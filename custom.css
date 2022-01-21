@@ -31,6 +31,10 @@ html, body {
 #regForm {
     
 }
+.prime-header {
+    color: lightblue;
+    text-align: center;
+}
 
 .form-content {
     max-width: 20rem;
